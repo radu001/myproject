@@ -8,6 +8,7 @@ SetColor(14);
  fread(&etud,sizeof(etud),1,fac);
  ad++;
 }
+//setup git
 system("cls");
 hidecursor(0);
 gotoxy(22,5);
