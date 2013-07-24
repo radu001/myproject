@@ -11,6 +11,7 @@
        };
        typedef student *STUDENT;
        STUDENT p,q,u;
+       //hh
 int nr;
 void stergerea_listei();
 void crearea_listei();
